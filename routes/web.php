@@ -13,7 +13,7 @@ use App\Http\Controllers\EventController;
 Route::get('/event/{id}', [EventController::class, 'show'])->name('event.details');
 
 Route::get('/events', function () {
-    return view('events'); // Make sure this points to your events.blade.php file
+    return view('event/events'); // Make sure this points to your events.blade.php file
 })->name('events.index'); // Naming the route
 
 
