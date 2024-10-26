@@ -118,16 +118,18 @@
             Selengkapnya
         </button>
     </div>
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="https://storage.googleapis.com/a1aa/image/vrdyU4Asbs7xDBSO8jZeQJX02cU3FOWWpk4sBfx1waou7RqTA.jpg" class="d-block w-100" alt="Slide 1">
-            </div>
-            <div class="carousel-item">
-                <img src="https://storage.googleapis.com/a1aa/image/GB8Z97J4MVamOlO5OVt43L1Ol3OUCwBUBFgy3eBNfVfZ3jUnA.jpg" class="d-block w-100" alt="Slide 2">
-            </div>
-            <div class="carousel-item">
-                <img src="https://storage.googleapis.com/a1aa/image/jvRVhlryi8o1GxZCyUOr2ScfHUBTsQIOvjy8criGNyS09I1JA.jpg" class="d-block w-100" alt="Slide 3">
+    <div class="carousel-container shadow-lg my-5 p-3 rounded mx-auto">
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="200">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://storage.googleapis.com/a1aa/image/vrdyU4Asbs7xDBSO8jZeQJX02cU3FOWWpk4sBfx1waou7RqTA.jpg" class="d-block w-100" alt="Slide 1">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://storage.googleapis.com/a1aa/image/GB8Z97J4MVamOlO5OVt43L1Ol3OUCwBUBFgy3eBNfVfZ3jUnA.jpg" class="d-block w-100" alt="Slide 2">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://storage.googleapis.com/a1aa/image/jvRVhlryi8o1GxZCyUOr2ScfHUBTsQIOvjy8criGNyS09I1JA.jpg" class="d-block w-100" alt="Slide 3">
+                </div>
             </div>
         </div>
     </div>
