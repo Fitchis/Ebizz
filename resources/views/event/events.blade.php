@@ -40,10 +40,11 @@
         .view-details {
             background-color: rgb(30 64 175);
             color: white;
-            margin-top: 2px;
-            border-radius: 20px;
-            padding: 10px 16px;
-            transition: background-color 0.3s, transform 0.3s;
+            margin-top: 15px; /* Increase margin-top for more space above the button */
+    border-radius: 20px;
+    padding: 10px 16px;
+    transition: background-color 0.3s, transform 0.3s;
+    display: inline-block; /* Ensure button is treated as a block for margin */
         }
         .view-details:hover {
             background-color: #0056b3;

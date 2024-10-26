@@ -130,7 +130,7 @@
         </div>
     </div>
     
-    
+    <x-sponsorship-section />
     </section>
     </main>
        

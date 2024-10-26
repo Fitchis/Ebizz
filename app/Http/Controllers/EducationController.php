@@ -16,31 +16,31 @@ class EducationController extends Controller
                 'title' => 'Introduction to Laravel',
                 'category' => 'Web Development',
                 'description' => 'Learn the basics of Laravel, a powerful PHP framework for building web applications.',
-                'image_url' => 'https://example.com/images/laravel.jpg',
+                'image_url' => 'https://via.placeholder.com/150',
             ],
             [
                 'title' => 'Mastering JavaScript',
                 'category' => 'Programming',
                 'description' => 'A comprehensive course on JavaScript, covering everything from basics to advanced concepts.',
-                'image_url' => 'https://example.com/images/javascript.jpg',
+                'image_url' => 'https://via.placeholder.com/150',
             ],
             [
                 'title' => 'Data Science with Python',
                 'category' => 'Data Science',
                 'description' => 'Explore data analysis, visualization, and machine learning using Python.',
-                'image_url' => 'https://example.com/images/python.jpg',
+                'image_url' => 'https://via.placeholder.com/150',
             ],
             [
                 'title' => 'Responsive Web Design',
                 'category' => 'Web Design',
                 'description' => 'Learn how to create beautiful, responsive websites that work on all devices.',
-                'image_url' => 'https://example.com/images/webdesign.jpg',
+                'image_url' => 'https://via.placeholder.com/150',
             ],
             [
                 'title' => 'Digital Marketing Strategies',
                 'category' => 'Marketing',
                 'description' => 'Understand the fundamentals of digital marketing and how to implement effective strategies.',
-                'image_url' => 'https://example.com/images/marketing.jpg',
+                'image_url' => 'https://via.placeholder.com/150',
             ],
         ];
 
