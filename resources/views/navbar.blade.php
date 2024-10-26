@@ -19,7 +19,7 @@
             <a class="px-4 py-2 rounded-md hover:bg-blue-800 hover:text-white transition-colors duration-300" href="{{ route('educations.index') }}">
                 Education Library
             </a>
-            <a class="px-4 py-2 rounded-md hover:bg-blue-800 hover:text-white transition-colors duration-300" href="#">
+            <a class="px-4 py-2 rounded-md hover:bg-blue-800 hover:text-white transition-colors duration-300" href="{{ url('/sponsorship') }}">
                 Sponsorship
             </a>
         </nav>
@@ -66,7 +66,7 @@
                 <a class="px-4 py-2 rounded-md hover:bg-blue-800 hover:text-white transition-colors duration-300" href="{{ route('educations.index') }}">
                     Education Library
                 </a>
-                <a class="px-4 py-2 rounded-md hover:bg-blue-800 hover:text-white transition-colors duration-300" href="#">
+                <a class="px-4 py-2 rounded-md hover:bg-blue-800 hover:text-white transition-colors duration-300" href="{{ url('/sponsorship') }}">
                     Sponsorship
                 </a>
             </nav>

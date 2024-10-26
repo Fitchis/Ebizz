@@ -2,7 +2,7 @@
 
 <section class="w-full text-center mt-16 bg-blue-900 py-12">
     <h2 class="text-3xl font-bold text-white mb-8" data-aos="fade-up">
-        Sponsorship and Partnership
+        Sponsors and Partnership
     </h2>
     <div class="sponsor-container" data-aos="fade-up">
         <div class="sponsor-content gap-10">

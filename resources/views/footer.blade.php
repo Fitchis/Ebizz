@@ -1,6 +1,6 @@
 <footer class="bg-gray-900 text-white py-8">
     <div class="container mx-auto flex flex-col md:flex-row justify-between items-start px-4">
-        <div class="w-full md:w-1/3 mb-4 md:mb-0">
+        <div class="w-full md:w-1/2 mb-4 md:mb-0">
             <h2 class="text-2xl font-bold mb-4">eBizz</h2>
             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <div class="flex space-x-4">
@@ -8,7 +8,7 @@
                 <a href="#" class="text-white hover:text-blue-400 transition duration-200"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
-        <div class="w-full md:w-1/3">
+        <div class="w-full md:w-1/2">
             <h3 class="text-xl font-bold mb-4">Contact Us</h3>
             <form action="#" method="POST" class="space-y-4">
                 <div>
@@ -25,5 +25,5 @@
     </div>
 </footer>
 <div class="bg-gray-200 text-center py-4">
-    <p class="text-gray-700">© 2023 <a href="#" class="text-blue-600">Lorem Ipsum.</a> All Rights Reserved.</p>
+    <p class="text-gray-700">&copy; 2024 eBizz. All rights reserved.</p>
 </div>

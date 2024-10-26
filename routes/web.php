@@ -22,3 +22,9 @@ Route::get('/events', function () {
 use App\Http\Controllers\EducationController;
 
 Route::get('/educations', [EducationController::class, 'index'])->name('educations.index');
+
+
+// sponsorship
+Route::get('/sponsorship', function () {
+    return view('sponsorship.sponsorship'); // Adjusted for your folder structure
+});
